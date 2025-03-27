@@ -1,0 +1,83 @@
+[
+	{
+		"id": 0,
+		"title": "Hurry Up Tomorrow",
+		"artist": "TheWeeknd",
+		"imgSrc": "/albumCoverImgs/HurryUpTomorrowImg.jpg",
+		"releaseYear": 2025,
+		"trackList": [
+			"Wake Me Up",
+			"Cry For Me",
+			"I Can't Fucking Sing",
+			"São Paulo",
+			"Until We’re Skin & Bones",
+			"Baptized In Fear",
+			"Open Hearts",
+			"Opening Night",
+			"Reflections Laughing",
+			"Enjoy The Show",
+			"Given Up On Me",
+			"I Can’t Wait To Get There",
+			"Timeless",
+			"Niagara Falls",
+			"Take Me Back to LA",
+			"Big Sleep",
+			"Give Me Mercy",
+			"Drive",
+			"The Abyss",
+			"Red Terror",
+			"Without A Warning", 
+			"Hurry Up Tomorrow"
+		]
+	},
+
+	{
+		"id": 1,
+		"title": "SOS",
+		"artist": "SZA",
+		"imgSrc": "/albumCoverImgs/SOScover.jpeg",
+		"releaseYear": 2022,
+		"trackList": [
+			"SOS",
+			"Kill Bill",
+			"Seek & Destroy",
+			"Low",
+			"Love Language",
+			"Blind",
+			"Used(ft.Don Toliver)",
+			"Snooze",
+			"Notice Me",
+			"Gone Girl",
+			"Smoking on my Ex Pack",
+			"Ghost in the Macine(ft. Phoebe Bridgers)",
+			"F2F",
+			"Nobody Gets Me",
+			"Conceited",
+			"Too Late",
+			"Far",
+			"Shirt",
+			"Open Arms(ft. Travis Scott)",
+			"I Hate U",
+			"Good Days",
+			"Forgiveless(ft. Ol' Dirty Bastard)"
+		]
+	},
+
+	{
+		"id": 2,
+		"title": "play with earth!0.03",
+		"artist": "wave to earth",
+		"imgSrc": "/albumCoverImgs/PlayWithEarth.jpeg",
+		"releaseYear": 2024,
+		"trackList": [
+			"are you bored?",
+			"play with earth!",
+			"annie.",
+			"pueblo - remastared 2024",
+			"beck.",
+			"slow dive",
+			"holyland"
+		]
+	}
+	
+]

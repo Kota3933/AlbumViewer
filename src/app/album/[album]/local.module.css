@@ -1,0 +1,9 @@
+.cover {
+	@apply mx-auto block;
+}
+/* .title {
+	@apply  text-center font-bold p-3;
+} */
+/* .parent {
+	@apply flex justify-center;
+} */
