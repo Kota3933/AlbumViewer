@@ -7,7 +7,7 @@ const url = "/albumDataList.json";
 const fetcher = (...args) => fetch(...args).then(res => res.json());
 
 export default function Album({params}:{params: {album: number}}) {
-	const {data, error, isLoading} = useSWR(url, fetcher);
+	const {data, isLoading} = useSWR(url, fetcher);
 	let albumData = null;
 	if(!isLoading) {
 		albumData = data[params.album];

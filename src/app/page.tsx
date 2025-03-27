@@ -7,7 +7,7 @@ const fetcher = (...args) => fetch(...args).then(res => res.json());
 
 export default function Home() {
 	//アルバムデータ取得
-	const {data:albums, error, isLoading} = useSWR(url, fetcher);
+	const {data:albums, isLoading} = useSWR(url, fetcher);
 	if(!isLoading) console.log(albums);
 
 	return (
